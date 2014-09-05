@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: My chat web app

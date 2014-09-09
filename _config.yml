@@ -6,8 +6,8 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            parse | a blog by aadith v menon
-tagline:          'a blog of a coder'
+title:            {parse}
+tagline:          'a blog of a coder {aadithvmenon}'
 description:      'parse | a blog by aadith v menon'
 url:              http://parse.cf
 baseurl:          '/'
